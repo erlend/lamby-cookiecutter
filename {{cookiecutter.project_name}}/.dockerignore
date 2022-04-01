@@ -1,0 +1,11 @@
+/Dockerfile
+/Dockerfile-build
+/docker-compose.yml
+/.dockerignore
+/.bundle
+/.git
+/log
+/node_modules
+/test
+/tmp
+/vendor/bundle
